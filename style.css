@@ -1,7 +1,11 @@
 p {
+  font-size: 30px;
   color: red;
 }
 
+  height: auto;
+}
+
 .qw {
-  background-color: red;
+  font-size: 30px;
 }
